@@ -1,0 +1,8 @@
+pyshorteners
+aiogram
+requests_html
+rich
+sqlite3
+aiohttp
+secrets
+pillow
